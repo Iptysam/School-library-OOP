@@ -39,20 +39,21 @@ Save records of who borrowed a given book and when.
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://www.ruby-lang.org/">Ruby</a></li>
+    <li><a href="https://ubuntu.com/">Terminal</a></li>
+    <li><a href="https://code.visualstudio.com/">Visual Studio</a></li>
   </ul>
 </details>
 
+
+<!-- Features -->
+
 ### Key Features <a name="key-features"></a>
 
-- **[person.rb](person.rb)**
-- **[teacher.rb](teacher.rb)**
-- **[student.rb](student.rb)**
+- **Add new students or teachers.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
