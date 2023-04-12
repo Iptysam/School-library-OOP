@@ -81,22 +81,6 @@ Clone this repository to your desired folder:
 
 git clone git@github.com:Iptysam/School-library-OOP.git
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd <!--
-Example command:
-
-```sh
-  cd my-project
-  install Ruby
-```
---->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
