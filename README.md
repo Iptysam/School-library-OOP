@@ -44,7 +44,7 @@ Save records of who borrowed a given book and when.
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="">Ruby</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
   </ul>
 </details>
 
