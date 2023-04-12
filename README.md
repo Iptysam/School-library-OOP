@@ -69,10 +69,11 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+A basic understanding of Ruby and Git
+### Usage
+1. Install Ruby
+2. Clone this repo `git clone https://github.com/Iptysam/School-library-OOP.gi`
 
-- VS Code
-- Ruby
 
 ### Setup
 
