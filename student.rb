@@ -1,21 +1,12 @@
-class Person
-  def initialize(age, name = 'Unknown', parent_permission: true)
-    @id = Random.rand(1..1000)
-    @age = age
-    @name = name
-    @parent_permission = parent_permission
+require_relative './person'
+
+class Student < Person
+  def initialize(classroom, age, name = 'Unknown', parent_permission: true)
+    super(age, name, parent_permission)
+    @classroom = classroom
   end
 
-  attr_accessor :age, :name
-  attr_reader :id
-
-  def can_use_services?
-    of_age? || parent_permission
+  def play_hooky
+    '¯(ツ)/¯'
   end
-
-  def of_age?
-    @age >= 18
-  end
-
-  private :of_age?
 end
